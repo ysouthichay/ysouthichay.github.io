@@ -1,4 +1,6 @@
 {
+    "titre":"Pizza Express",
+    "devise":"Allez la Moule",
     "pizzas": [
       {
         "name": "Margherita",
