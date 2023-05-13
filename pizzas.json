@@ -68,7 +68,7 @@
         "price": 14.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Emmental", "Chèvre", "Bleu"],
         "filtre": ["Base tomate", "Pâte épaisse"],
-        "type" : "vegetables",
+        "type" : "vegetarienne",
         "image" : "pizza9.jpg"
     },
     {
