@@ -1,54 +1,90 @@
-{
-    "titre":"Pizza Express",
-    "devise":"Allez la Moule",
-    "pizzas": [
-      {
-        "name": "Margherita",
-        "price": 9.99,
-        "quantity": 50,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Basilic"]
-      },
-      {
-        "name": "Pepperoni",
-        "price": 11.99,
-        "quantity": 30,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni"]
-      },
-      {
-        "name": "Hawaïenne",
+[
+    {
+      "name": "Margharita",
+      "price": 9.99,
+      "ingredients": ["Sauce tomate", "Mozzarella", "Basilic"],
+      "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
+      "image" : "superpizza1.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name": "Pepperoni",
+      "price": 11.99,
+      "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni"],
+      "filtre": ["Base tomate", "Pâte fine", "Viande"],
+      "type" : "meat",
+      "image" : "pizza1.jpg"
+    },
+    {
+      "name": "Hawaïenne",
+      "price": 12.99,
+      "ingredients": ["Crème fraiche", "Mozzarella", "Jambon", "Ananas"],
+      "filtre": ["Base crème", "Pâte fine", "Viande"],
+      "type" : "vegetables",
+      "image" : "pizza4.jpg"
+    },
+    {
+      "name": "Meat-Lovers",
+      "price": 14.99,
+      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Pepperoni", "Saucisse", "Bacon", "Viande hachée"],
+      "filtre": ["Base tomate", "Pâte épaisse", "Viande"],
+      "type" : "vegetables",
+      "image" : "pizza5.jpg"
+    },
+    {
+      "name": "Montagnarde",
+      "price": 12.99,
+      "ingredients": ["Crème fraiche", "Fromage mozzarella", "Champignons", "Lardons", "Oignons"],
+      "filtre": ["Base crème", "Pâte épaisse", "Viande"],
+      "type" : "vegetables",
+      "image" : "pizza7.jpg"
+    },
+    {
+      "name": "BBQ-Chicken",
+      "price": 13.99,
+      "ingredients": ["Crème fraiche", "Sauce barbecue", "Mozzarella", "Poulet grillé", "Oignons rouges", "Coriandre"],
+      "filtre": ["Base crème", "Pâte fine", "Viande"],
+      "type" : "vegetables",
+      "image" : "pizza8.jpg"
+    },
+    {
+      "name": "Saumon",
+      "price": 14.99,
+      "ingredients": ["Crème fraiche", "Mozzarella", "Saumon", "Aneth"],
+      "filtre": ["Base crème", "Pâte épaisse", "Poisson"],
+      "type" : "vegetables",
+      "image" : "pizza6.jpg"
+    },
+    {
+        "name": "Anchois",
         "price": 12.99,
-        "quantity": 25,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Jambon", "Ananas"]
-      },
-      {
-        "name": "Cannibale",
+        "ingredients": ["Sauce tomate", "Mozzarella", "Anchois", "Poivrons", "Olives"],
+        "filtre": ["Base tomate", "Pâte fine", "Poisson"],
+        "type" : "vegetables",
+        "image" : "pizza2.jpg"
+    },
+    {
+        "name": "Fromages",
         "price": 14.99,
-        "quantity": 20,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni", "Saucisse", "Bacon", "Viande hachée"]
+        "ingredients": ["Sauce tomate", "Mozzarella", "Fruits de mer", "Olives"],
+        "filtre": ["Base tomate", "Pâte épaisse", "Poisson"],
+        "type" : "vegetables",
+        "image" : "pizza9.jpg"
       },
-      {
-        "name": "Montagnarde",
-        "price": 12.99,
-        "quantity": 25,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Champignons", "Lardons", "Oignons", "Fromage de chèvre"]
-      },
-      {
-        "name": "BBQ Chicken",
-        "price": 13.99,
-        "quantity": 20,
-        "ingredients": ["Sauce barbecue", "Mozzarella", "Poulet grillé", "Oignons rouges", "Coriandre"]
-      },
-      {
-        "name": "Suprême",
-        "price": 15.99,
-        "quantity": 15,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni", "Saucisse", "Champignons", "Poivrons", "Oignons", "Olives"]
-      },
-      {
-        "name": "Mushroom",
-        "price": 10.99,
-        "quantity": 40,
-        "ingredients": ["Sauce tomate", "Mozzarella", "Champignons"]
-      }
-    ]
-  }
+    {
+      "name": "Champignon",
+      "price": 10.99,
+      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Champignons"],
+      "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
+      "type" : "vegetables",
+      "image" : "pizza1.jpg"
+    },
+    {
+      "name": "Végétarienne",
+      "price": 12.99,
+      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
+      "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
+      "type" : "vegetables",
+      "image" : "pizza1.jpg"
+    }
+]
