@@ -86,7 +86,7 @@
           "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"]
           "type" : "viande",
           "image" : "pizza8.jpg"
-        }
+        },
     {
       "name": "Maxi-Pepperoni",
       "price": 10.99,
