@@ -4,8 +4,8 @@
       "price": 9.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Basilic", "Tomates fraîches"],
       "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
-      "type" : "vegetarienne"
-      "image" : "pizza1.jpg",
+      "type" : "vegetarienne",
+      "image" : "pizza1.jpg"
     },
     {
       "name": "Pepperoni",
