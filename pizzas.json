@@ -5,14 +5,14 @@
       "ingredients": ["Sauce tomate", "Mozzarella", "Basilic"],
       "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
       "image" : "pizza1.jpg",
-      "type" : "Végétarienne"
+      "type" : "vegetarienne"
     },
     {
       "name": "Pepperoni",
       "price": 11.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza6.jpg"
     },
     {
@@ -20,7 +20,7 @@
       "price": 12.99,
       "ingredients": ["Crème fraiche", "Mozzarella", "Jambon", "Ananas"],
       "filtre": ["Base crème", "Pâte fine", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza5.jpg"
     },
     {
@@ -36,7 +36,7 @@
       "price": 12.99,
       "ingredients": ["Crème fraiche", "Fromage mozzarella", "Champignons", "Lardons", "Oignons"],
       "filtre": ["Base crème", "Pâte épaisse", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza3.jpg"
     },
     {
@@ -44,7 +44,7 @@
       "price": 13.99,
       "ingredients": ["Crème fraiche", "Sauce barbecue", "Mozzarella", "Poulet grillé", "Oignons rouges", "Coriandre"],
       "filtre": ["Base crème", "Pâte fine", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza8.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "price": 14.99,
       "ingredients": ["Sauce tomate", "Emmental", "Mozzarella", "Champignons", "Jambon ibérique", "Roquette"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza11.jpg"
     },
     {
@@ -60,7 +60,7 @@
         "price": 12.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Anchois", "Poivrons", "Olives"],
         "filtre": ["Base tomate", "Pâte fine", "Poisson"],
-        "type" : "Poisson",
+        "type" : "poisson",
         "image" : "pizza2.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "price": 14.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Fruits de mer", "Olives"],
         "filtre": ["Base tomate", "Pâte épaisse", "Poisson"],
-        "type" : "Poisson",
+        "type" : "poisson",
         "image" : "pizza9.jpg"
       },
     {
@@ -76,7 +76,7 @@
         "price": 14.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Jambon", "Champignons", "Oeuf"],
         "filtre": ["Base tomate", "Pâte fine", "Poisson"],
-        "type" : "Viande",
+        "type" : "viande",
         "image" : "pizza9.jpg"
       },
     {
@@ -84,7 +84,7 @@
       "price": 10.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Une tonne de Pepperoni"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza10.jpg"
     },
 ]
