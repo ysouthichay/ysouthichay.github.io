@@ -53,7 +53,7 @@
       "ingredients": ["Sauce tomate", "Emmental", "Mozzarella", "Champignons", "Jambon ibérique", "Roquette"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "Viande",
-      "image" : "pizza10.jpg"
+      "image" : "pizza1.jpg"
     },
     {
         "name": "Anchois",
