@@ -70,7 +70,7 @@
         "filtre": ["Base tomate", "Pâte épaisse", "Poisson"],
         "type" : "poisson",
         "image" : "pizza9.jpg"
-      },
+    },
     {
         "name": "Reine",
         "price": 14.99,
@@ -78,21 +78,21 @@
         "filtre": ["Base tomate", "Pâte fine", "Poisson"],
         "type" : "viande",
         "image" : "pizza4.jpg"
-      },
-            {
+     },
+     {
           "name": "Végétarienne",
           "price": 12.99,
           "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
           "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"]
           "type" : "viande",
           "image" : "pizza8.jpg"
-        },
-    {
+      },
+      {
       "name": "Maxi-Pepperoni",
       "price": 10.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Une tonne de Pepperoni"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "viande",
       "image" : "pizza10.jpg"
-    },
+       }
 ]
