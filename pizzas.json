@@ -79,14 +79,6 @@
         "type" : "viande",
         "image" : "pizza4.jpg"
      },
-     {
-          "name": "Végétarienne",
-          "price": 12.99,
-          "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
-          "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"]
-          "type" : "viande",
-          "image" : "pizza8.jpg"
-      },
       {
       "name": "Maxi-Pepperoni",
       "price": 10.99,
