@@ -28,7 +28,7 @@
       "price": 14.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni", "Saucisse", "Bacon", "Viande hachée"],
       "filtre": ["Base tomate", "Pâte épaisse", "Viande"],
-      "type" : "Viande",
+      "type" : "viande",
       "image" : "pizza7.jpg"
     },
     {
