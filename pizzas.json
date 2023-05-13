@@ -64,7 +64,7 @@
         "image" : "pizza2.jpg"
     },
     {
-        "name": "Fromages",
+        "name": "Fruits de mer",
         "price": 14.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Fruits de mer", "Olives"],
         "filtre": ["Base tomate", "Pâte épaisse", "Poisson"],
@@ -73,7 +73,7 @@
     },
     {
         "name": "Reine",
-        "price": 14.99,
+        "price": 11.99,
         "ingredients": ["Sauce tomate", "Mozzarella", "Jambon", "Champignons", "Oeuf"],
         "filtre": ["Base tomate", "Pâte fine", "Poisson"],
         "type" : "viande",
@@ -81,10 +81,10 @@
      },
      {
           "name": "Végétarienne",
-          "price": 12.99,
+          "price": 10.99,
           "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
           "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
-          "type" : "viande",
+          "type" : "vegetarienne",
           "image" : "pizza8.jpg"
       },
       {
