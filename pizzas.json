@@ -84,7 +84,7 @@
       "price": 12.99,
       "ingredients": ["Sauce tomate", "Fromage mozzarella", "Brocoli", "Oignons", "Champignons", "Olives"],
       "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
-      "type" : "vegetables",
+      "type" : "Végétarienne",
       "image" : "pizza8.jpg"
     }
 ]
