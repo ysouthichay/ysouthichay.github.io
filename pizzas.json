@@ -52,7 +52,7 @@
       "price": 14.99,
       "ingredients": ["Sauce tomate", "Emmental", "Mozzarella", "Champignons", "Jambon ibérique", "Roquette"],
       "filtre": ["Base tomate", "Pâte épaisse", "Viande"],
-      "type" : "vegetables",
+      "type" : "meat",
       "image" : "pizza11.jpg"
     },
     {
@@ -72,12 +72,12 @@
         "image" : "pizza9.jpg"
       },
     {
-      "name": "Champignon",
+      "name": "Reine",
       "price": 10.99,
-      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Champignons"],
+      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Champignons", "Jambon"],
       "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
-      "type" : "vegetables",
-      "image" : "pizza1.jpg"
+      "type" : "meat",
+      "image" : "pizza4.jpg"
     },
     {
       "name": "Végétarienne",
@@ -85,6 +85,6 @@
       "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
       "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
       "type" : "vegetables",
-      "image" : "pizza1.jpg"
+      "image" : "pizza8.jpg"
     }
 ]
