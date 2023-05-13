@@ -85,7 +85,7 @@
           "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
           "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
           "type" : "vegetarienne",
-          "image" : "superpizza1.jpg"
+          "image" : "pizza2.jpg"
       },
       {
       "name": "Maxi-Pepperoni",
