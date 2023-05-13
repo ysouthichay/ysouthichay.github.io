@@ -53,7 +53,7 @@
       "ingredients": ["Sauce tomate", "Emmental", "Mozzarella", "Champignons", "Jambon ibérique", "Roquette"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "Viande",
-      "image" : "pizza1.jpg"
+      "image" : "pizza11.jpg"
     },
     {
         "name": "Anchois",
@@ -77,7 +77,7 @@
       "ingredients": ["Sauce tomate", "Mozzarella", "Une tonne de Pepperoni"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "Viande",
-      "image" : "pizza1.jpg"
+      "image" : "pizza10.jpg"
     },
     {
       "name": "Végétarienne",
