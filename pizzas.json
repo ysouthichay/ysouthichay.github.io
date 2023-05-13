@@ -1,6 +1,6 @@
 [
     {
-      "name": "Margharitabite",
+      "name": "Margharita",
       "price": 9.99,
       "ingredients": ["Sauce tomate", "Mozzarella", "Basilic"],
       "filtre": ["Base tomate", "Pâte fine", "Végétarien"],
@@ -48,12 +48,12 @@
       "image" : "pizza8.jpg"
     },
     {
-      "name": "Saumon",
+      "name": "Iberico",
       "price": 14.99,
-      "ingredients": ["Crème fraiche", "Mozzarella", "Saumon", "Aneth"],
-      "filtre": ["Base crème", "Pâte épaisse", "Poisson"],
+      "ingredients": ["Sauce tomate", "Emmental", "Mozzarella", "Champignons", "Jambon ibérique", "Roquette"],
+      "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "vegetables",
-      "image" : "pizza6.jpg"
+      "image" : "pizza10.jpg"
     },
     {
         "name": "Anchois",
