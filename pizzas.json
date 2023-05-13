@@ -82,9 +82,9 @@
     {
       "name": "Végétarienne",
       "price": 12.99,
-      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Poivrons", "Oignons", "Champignons", "Olives"],
+      "ingredients": ["Sauce tomate", "Fromage mozzarella", "Brocoli", "Oignons", "Champignons", "Olives"],
       "filtre": ["Base tomate", "Pâte épaisse", "Végétarien"],
       "type" : "vegetables",
-      "image" : "pizza5.jpg"
+      "image" : "pizza8.jpg"
     }
 ]
