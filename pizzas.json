@@ -72,9 +72,9 @@
         "image" : "pizza9.jpg"
       },
     {
-      "name": "Kneegrow",
+      "name": "Maxi-Pepperoni",
       "price": 10.99,
-      "ingredients": ["Sauce tomate", "Mozzarella", "Pepperoni"],
+      "ingredients": ["Sauce tomate", "Mozzarella", "Une tonne de Pepperoni"],
       "filtre": ["Base tomate", "Pâte fine", "Viande"],
       "type" : "Viande",
       "image" : "pizza1.jpg"
